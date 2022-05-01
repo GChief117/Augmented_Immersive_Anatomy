@@ -3,7 +3,6 @@ The following is an NFT localized smart contracting minting platform and walkthr
 
 
 
-
+![OpenSea Logo](/VAROS/OpenSea.png)
 ![Intestine Logo](/VAROS/intestine.png)
 ![Liver Logo](/VAROS/liver.png)
-![OpenSea Logo](/VAROS/OpenSea.png)
